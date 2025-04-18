@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Expertise in building responsive and interactive web interfaces using HTML, CSS, JavaScript, React.js, and other modern frameworks."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Skilled in server-side development with PHP, Node.js, and MySQL, focusing on building scalable and secure APIs and services."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Designing intuitive user interfaces and enhancing user experience through wireframes, prototypes, and user-centered design principles."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Software Development",
+      "description": "Proficient in designing, developing, and maintaining software applications using modern programming languages, development tools, and best practices."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "A real estate platform designed to simplify property searching with modern UI, responsive layout, and dynamic property listings.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "A responsive admin dashboard featuring data visualization, user management, and activity tracking using React and Chart.js.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "A rental management app built to streamline the process of booking, listing, and managing rental properties efficiently.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Working with this developer was seamless. They delivered clean code, timely updates, and exceeded expectations.",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Outstanding professionalism and dedication. The project was completed ahead of schedule and worked flawlessly.",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Incredible attention to detail and design. The final product truly reflected our brand vision and user needs.",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
